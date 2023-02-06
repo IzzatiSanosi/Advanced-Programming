@@ -37,7 +37,7 @@ if isExist == True:
     print("The output file exists. Sending notification to email...")
 
     sender_email = 'izzatisanosi98@gmail.com'
-    password = 'rxgboexpnkaqjyxx'
+    password = ''
     receiver_email = 'sitinurizzati@graduate.utm.my'
 
     message = """Subject: !!SUCCESSFULLY EXPORT CSV!!
